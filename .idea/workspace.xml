@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9228db65-420f-4aba-8ea1-5afcabf95a3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/renderer/components/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/animate.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.electron-vue/dev-runner.js" beforeDir="false" afterPath="$PROJECT_DIR$/.electron-vue/dev-runner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/index.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/LandingPage.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/components/LandingPage/SystemInformation.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/renderer/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/icons/256x256.png" beforeDir="false" afterPath="$PROJECT_DIR$/build/icons/256x256.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/icons/icon.icns" beforeDir="false" afterPath="$PROJECT_DIR$/build/icons/icon.icns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/icons/icon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/build/icons/icon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/renderer/components/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/renderer/components/index.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,20 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/renderer/App.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/renderer/components/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="128">
+              <caret line="333" column="31" selection-start-line="333" selection-start-column="31" selection-end-line="333" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -53,7 +39,12 @@
       <find>LandingPage</find>
       <find>9080</find>
       <find>scan</find>
+      <find>listlog</find>
+      <find>logList.push</find>
     </findStrings>
+    <replaceStrings>
+      <replace>logList.unshift</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -95,11 +86,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2381" />
-    <option name="y" value="-66" />
-    <option name="width" value="1440" />
-    <option name="height" value="833" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="213" />
+    <option name="y" value="60" />
+    <option name="width" value="1102" />
+    <option name="height" value="809" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -112,6 +103,17 @@
             <path>
               <item name="RocketCleaner" type="b2602c69:ProjectViewProjectNode" />
               <item name="RocketCleaner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RocketCleaner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RocketCleaner" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RocketCleaner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RocketCleaner" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RocketCleaner" type="b2602c69:ProjectViewProjectNode" />
@@ -139,6 +141,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/static/css" />
@@ -181,18 +184,19 @@
       <option name="presentableId" value="Default" />
       <updated>1569234407840</updated>
       <workItem from="1569234409030" duration="5058000" />
-      <workItem from="1569245257616" duration="1904000" />
+      <workItem from="1569245257616" duration="3130000" />
+      <workItem from="1569250340899" duration="4970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6962000" />
+    <option name="totallyTimeSpent" value="13158000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2381" y="-66" width="1440" height="833" extended-state="0" />
+    <frame x="213" y="60" width="1102" height="809" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23247497" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2264151" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -293,14 +297,17 @@
     <entry file="file://$PROJECT_DIR$/src/renderer/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build/icons/256x256.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/renderer/components/index.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="128">
+          <caret line="333" column="31" selection-start-line="333" selection-start-column="31" selection-end-line="333" selection-end-column="31" />
         </state>
       </provider>
     </entry>
