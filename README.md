@@ -2,7 +2,11 @@
 
 > Mac OS Cleaner
 
-![](http://s5.picofile.com/file/8373435234/Untitled.jpg)
+![](http://s5.picofile.com/file/8373436850/Untitled.jpg)
+
+
+#### Mac version
+Download – [rocketcleaner_1_0_1.dmg](http://s3.picofile.com/file/8373436134/rocketcleaner_1_0_1.dmg.html) 
 
 #### Build Setup
 
