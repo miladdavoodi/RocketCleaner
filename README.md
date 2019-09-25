@@ -2,6 +2,8 @@
 
 > Mac OS Cleaner
 
+![](http://s5.picofile.com/file/8373435234/Untitled.jpg)
+
 #### Build Setup
 
 ``` bash
